@@ -31,8 +31,6 @@ KubeArmor already supports k8s-orchestrated workloads and provides [KVMService ]
 
 ## KubeArmor on Open Horizon
 
-> **Note**
-> This guide assumes both the Open Horizon Management Hub and Agent VM are running Ubuntu 20.04.
 We will first need to install Open Horizon Management Hub and Agent node components. For that please follow the [Open Horizon setup ](https://github.com/kubearmor/KubeArmor/wiki/Open-Horizon-setup){:target="_blank"}{: .externalLink} guide. We also assume that [Open Horizon Home Assistant service ](https://github.com/open-horizon-services/service-homeassistant){:target="_blank"}{: .externalLink} is running on the agent edge node.
 
 ![KubeArmor Open Horizon details](./OH-detailed.png)
